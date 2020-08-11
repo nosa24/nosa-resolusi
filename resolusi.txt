@@ -1,2 +1,3 @@
 Resolusi
- - Belajar Git dan Github
+ - Memahami Git dan Github
+ - Memahami CodeIgniter 3
