@@ -1,0 +1,4 @@
+Rencana Menggapai Resolusi
+1. Memahami Git
+  - Memahami git dan github
+  - Mengenal istilah dalam git
