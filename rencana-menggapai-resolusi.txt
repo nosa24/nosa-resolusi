@@ -4,3 +4,4 @@ Rencana Menggapai Resolusi
   - Mengenal istilah dalam git
   - Memahami dasar commit Github
   - Memahami Branch dan Merge Github
+  - Memahami Fork Github
