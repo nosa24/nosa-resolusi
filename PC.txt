@@ -1,0 +1,11 @@
+192.168.0.76
+250GB
+Dual Core E5700
+MSI G41-P28
+2GB
+Intel G41
+Mouse: Genius
+Keyboard: Logitech
+Monitor: Acer 19"
+Dep: PPIC
+User: Tanti
