@@ -5,3 +5,4 @@ Rencana Menggapai Resolusi
   - Memahami dasar commit Github
   - Memahami Branch dan Merge Github
   - Memahami Fork Github
+  - Mulai Mencoba Git
