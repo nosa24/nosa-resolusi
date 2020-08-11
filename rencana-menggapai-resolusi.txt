@@ -8,3 +8,4 @@ Rencana Menggapai Resolusi
   - saindfhjs
   - Memahami Fork Github
   - Mulai Mencoba Git
+  - Memahami Git Branch dan Merge
