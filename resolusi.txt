@@ -2,4 +2,3 @@ Resolusi
  - Memahami Git dan Github
  - Memahami CodeIgniter 3
  - Memahami WEB PO Online
- - asd
