@@ -6,3 +6,5 @@ Rencana Menggapai Resolusi
   - Memahami Branch dan Merge Github
   - bcass
   - saindfhjs
+  - Memahami Fork Github
+  - Mulai Mencoba Git
